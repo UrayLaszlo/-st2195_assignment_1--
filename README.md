@@ -7,3 +7,4 @@ Created on Fri Nov 11 19:38:42 2022
 """
 
 Assignment 1 is about creating some scripts and pushing them to Github.
+
