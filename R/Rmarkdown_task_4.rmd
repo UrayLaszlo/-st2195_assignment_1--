@@ -1,0 +1,16 @@
+---
+title: "Markdown of integers"
+author: "Laszlo"
+date: "12 Nov 2022"
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# This is a markdown file of of the R code from Assignment 1.
+
+# R code
+
+```{r quote}
+print(seq.int(1, 10))
+```
